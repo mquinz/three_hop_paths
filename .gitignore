@@ -1,3 +1,8 @@
+#Intellij
+.idea
+three_hop_paths.iml
+target
+
 # Compiled class file
 *.class
 
