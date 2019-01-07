@@ -20,6 +20,8 @@ public class Path3Test {
 
     @Test
     public void testTraversal() throws Exception {
+
+        System.out.println("begin test");
         Procedures.relProperties.invalidateAll();
         Procedures.nodeProperties.invalidateAll();
         Procedures.graph = null;
